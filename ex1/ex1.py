@@ -4,7 +4,6 @@ from matplotlib.colors import LogNorm
 from mpl_toolkits.mplot3d import axes3d, Axes3D
 from computeCost import *
 from gradientDescent import *
-from gradientDescentMulti import *
 from plotData import *
 
 # ===================== Part 1: Plotting =====================
