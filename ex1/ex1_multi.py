@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from featureNormalize import *
-from gradientDescent import *
+from gradientDescentMulti import *
 from normalEqn import *
 
 plt.ion()
